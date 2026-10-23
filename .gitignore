@@ -1,0 +1,13 @@
+# Java and Maven
+
+target/
+*.class
+
+# IntelliJ
+
+.idea/
+*.iml
+
+# Sensitive configuration
+
+src/main/resources/application.properties
