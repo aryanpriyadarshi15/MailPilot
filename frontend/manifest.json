@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "MailPilot - Email Reply Generator",
+  "version": "1.1.0",
+  "description": "Generate email replies with your own instructions and chosen tone.",
+  "action": {
+    "default_title": "MailPilot",
+    "default_popup": "popup.html"
+  },
+  "host_permissions": [
+    "http://localhost:8080/*"
+  ]
+}
